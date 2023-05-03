@@ -27,7 +27,7 @@ let Information = {
   Name: "Nokeyu",
   Age: 15,
   Birthday: "07/02/08",
-  Contact: ["sz.#8795", "nokeyudev@gmail.com"],
+  Contact: ["nokeyudev@gmail.com", "t.me/zackcraxker"],
 }
 
 console.log(Skills.Langs.map(c => c).join(" "));
