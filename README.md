@@ -4,7 +4,7 @@
 let Skills = {
   "Langs": [
     "JavaScript",
-    "TypeSript",
+    "TypeScript",
     "Python",
     "Ruby",
     "HTML",
